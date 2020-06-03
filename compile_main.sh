@@ -11,8 +11,8 @@ pdflatex --shell-escape -draftmode -interaction=batchmode "$arg" > /dev/null 2>&
 pdflatex --shell-escape -interaction=nonstopmode -file-line-error "$arg" | grep -v "$filters"
 rm -f *.aux ./*/*.aux ./*/*/*.aux *.nav *.out *.snm *.blg *.bbl *.toc *.log ./*/*.log ./*/*/*.log "$arg.sh~" _region_.pdf _region_.tex > /dev/null 2>&1;
 
-# Copy dissertation 
-#cp "$arg".pdf "$project".pdf 
+# Copy dissertation
+#cp "$arg".pdf "$project".pdf
 
 #evince report.pdf;
 

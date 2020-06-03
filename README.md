@@ -1,6 +1,6 @@
 # umich_dissertation_latex_template_2020
 University of Michigan 2020 dissertation latex template - Rackham compliant
-### Adapted by Suyash Tandon, 2017 - suyashtn@umich.edu
+### Adapted by Suyash Tandon, 2020 - suyashtn@umich.edu
 ---
 The two most important files meeting Rackham dissertation guidelines
 are :

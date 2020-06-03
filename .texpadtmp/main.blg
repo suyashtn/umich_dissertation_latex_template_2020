@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/suyashtandon/Documents/UM/ResearchFiles/Publications/Thesis/umich_dissertation_latex_template_2020/.texpadtmp/main.aux
+A level-1 auxiliary file: ./dedication.aux
+A level-1 auxiliary file: ./acknowledgments.aux
+A level-1 auxiliary file: ./preface.aux
+The style file: .././myauthordate2_custom.bst
+Database file #1: ../library_custom.bib
+You've used 1 entry,
+            2449 wiz_defined-function locations,
+            582 strings with 4663 characters,
+and the built_in function-call counts, 413 in all, are:
+= -- 41
+> -- 8
+< -- 3
++ -- 2
+- -- 2
+* -- 32
+:= -- 70
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 16
+empty$ -- 34
+format.name$ -- 3
+if$ -- 81
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 3
+pop$ -- 4
+preamble$ -- 1
+purify$ -- 7
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 36
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 4
+width$ -- 0
+write$ -- 15

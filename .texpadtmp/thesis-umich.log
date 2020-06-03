@@ -1,0 +1,1720 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdftex 2017.5.23)  6 APR 2020 12:15
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**thesis-umich.cls
+(./thesis-umich.cls
+./thesis-umich.cls:55: Undefined control sequence.
+l.55 \ProvidesClass
+                   {thesis-umich}[2017/11/29 Thesis template]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (78.46841pt too wide) in paragraph at lines 61--80
+[]\tenrm @umich@thesis @umich@report @umich@listoffigures @umich@listoftables @umich@listofmaps @umich@listofillustrations|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm u
+.\tenrm m
+.\tenrm i
+.etc.
+
+
+Overfull \hbox (54.02402pt too wide) in paragraph at lines 61--80
+\tenrm @umich@listofprograms @umich@listofappendices @umich@listofabbrevs @umich@listofsymbols @umich@listofacronyms|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm @
+.\tenrm u
+.\tenrm m
+.\tenrm i
+.\tenrm c
+.etc.
+
+./thesis-umich.cls:82: Undefined control sequence.
+l.82 \@
+       umich@thesistrue
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:83: Undefined control sequence.
+l.83 \@
+       umich@listoffigurestrue
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:84: Undefined control sequence.
+l.84 \@
+       umich@listoftablestrue
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:85: Undefined control sequence.
+l.85 \@
+       umich@listofappendicestrue
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:86: Undefined control sequence.
+l.86 \@
+       umich@copyrighttrue
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.05159pt too wide) in paragraph at lines 82--87
+[]\tenrm umich@thesistrue umich@listoffigurestrue umich@listoftablestrue umich@listofappendicestrue umich@copyrighttrue |
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm u
+.\tenrm m
+.\tenrm i
+.\tenrm c
+.etc.
+
+./thesis-umich.cls:96: Undefined control sequence.
+l.96 \DeclareOption
+                   {thesis}{\@umich@thesistrue\@umich@reportfalse}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:96: Undefined control sequence.
+l.96 \DeclareOption{thesis}{\@
+                              umich@thesistrue\@umich@reportfalse}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:96: Undefined control sequence.
+l.96 \DeclareOption{thesis}{\@umich@thesistrue\@
+                                                umich@reportfalse}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:97: Undefined control sequence.
+l.97 \DeclareOption
+                   {report}{\@umich@reporttrue\@umich@thesisfalse}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:97: Undefined control sequence.
+l.97 \DeclareOption{report}{\@
+                              umich@reporttrue\@umich@thesisfalse}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:97: Undefined control sequence.
+l.97 \DeclareOption{report}{\@umich@reporttrue\@
+                                                umich@thesisfalse}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:100: Undefined control sequence.
+l.100 \DeclareOption
+                    {index}{\@umich@indextrue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:100: Undefined control sequence.
+l.100 \DeclareOption{index}{\@
+                              umich@indextrue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:103: Undefined control sequence.
+l.103 \DeclareOption
+                    {backref}{\@umich@backreftrue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:103: Undefined control sequence.
+l.103 \DeclareOption{backref}{\@
+                                umich@backreftrue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:107: Undefined control sequence.
+l.107 \DeclareOption
+                    *{\PassOptionsToClass{\CurrentOption}{report}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:107: Undefined control sequence.
+l.107 \DeclareOption*{\PassOptionsToClass
+                                         {\CurrentOption}{report}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:107: Undefined control sequence.
+l.107 ...ption*{\PassOptionsToClass{\CurrentOption
+                                                  }{report}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:108: Undefined control sequence.
+l.108   \typeout
+                {Unknown option: passing ``\CurrentOption"
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:108: Undefined control sequence.
+l.108 ...{Unknown option: passing ``\CurrentOption
+                                                  "
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:111: Undefined control sequence.
+l.111 \ProcessOptions
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:120: Undefined control sequence.
+l.120 \LoadClass
+                [letterpaper,12pt,oneside]{report}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:139: Undefined control sequence.
+l.139 \RequirePackage
+                     [margin=1in,left=1.0in, %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:140: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.140 headheight=0.5\baselineskip]
+                                  {geometry}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./thesis-umich.cls:140: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.140 headheight=0.5\baselineskip]
+                                  {geometry}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./thesis-umich.cls:144: Undefined control sequence.
+l.144 \RequirePackage
+                     {amsmath}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:145: Undefined control sequence.
+l.145 \RequirePackage
+                     {amsfonts}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:146: Undefined control sequence.
+l.146 \RequirePackage
+                     {amssymb}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:149: Undefined control sequence.
+l.149 \RequirePackage
+                     {graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:155: Undefined control sequence.
+l.155 \RequirePackage
+                     {subcaption}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:159: Undefined control sequence.
+l.159 \RequirePackage
+                     {times}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:162: Undefined control sequence.
+l.162 \RequirePackage
+                     {verbatim}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:165: Undefined control sequence.
+l.165 \RequirePackage
+                     {upquote}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:168: Undefined control sequence.
+l.168 \RequirePackage
+                     {textcomp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:171: Undefined control sequence.
+l.171 \RequirePackage
+                     {setspace}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:174: Undefined control sequence.
+l.174 \RequirePackage
+                     {ifthen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:177: Undefined control sequence.
+l.177 \RequirePackage
+                     {soul}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:180: Undefined control sequence.
+l.180 \RequirePackage
+                     {float}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:183: Undefined control sequence.
+l.183 \RequirePackage
+                     [printonlyused]{acronym}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:193: Undefined control sequence.
+l.193 \RequirePackage
+                     {fancyhdr}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:202: Undefined control sequence.
+l.202 \RequirePackage
+                     {changepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:207: Undefined control sequence.
+l.207 \pagestyle
+                {fancy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:210: Undefined control sequence.
+l.210 \renewcommand
+                   {\chaptermark}[1]{\markboth{#1}{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:210: Undefined control sequence.
+l.210 \renewcommand{\chaptermark
+                                }[1]{\markboth{#1}{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:210: Undefined control sequence.
+l.210 \renewcommand{\chaptermark}[1]{\markboth
+                                              {#1}{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:210: You can't use `macro parameter character #' in horizontal mode.
+l.210 \renewcommand{\chaptermark}[1]{\markboth{#
+                                                1}{}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:213: Undefined control sequence.
+l.213 \renewcommand
+                   {\sectionmark}[1]{\markright{\thesection\ #1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:213: Undefined control sequence.
+l.213 \renewcommand{\sectionmark
+                                }[1]{\markright{\thesection\ #1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:213: Undefined control sequence.
+l.213 \renewcommand{\sectionmark}[1]{\markright
+                                               {\thesection\ #1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:213: Undefined control sequence.
+l.213 ...d{\sectionmark}[1]{\markright{\thesection
+                                                  \ #1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:213: You can't use `macro parameter character #' in horizontal mode.
+l.213 ...sectionmark}[1]{\markright{\thesection\ #
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:216: Undefined control sequence.
+l.216 \fancyhf
+              {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:225: Undefined control sequence.
+l.225 \fancyfoot
+                [C]{\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:225: Undefined control sequence.
+l.225 \fancyfoot[C]{\thepage
+                            }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:227: Undefined control sequence.
+l.227 \renewcommand
+                   {\headrulewidth}{0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:227: Undefined control sequence.
+l.227 \renewcommand{\headrulewidth
+                                  }{0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:232: Undefined control sequence.
+l.232 \fancypagestyle
+                     {plain}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:234: Undefined control sequence.
+l.234   \fancyhead
+                  {} %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:236: Undefined control sequence.
+l.236   \renewcommand
+                     {\headrulewidth}{0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:236: Undefined control sequence.
+l.236   \renewcommand{\headrulewidth
+                                    }{0pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:237: Undefined control sequence.
+l.237   \fancyfoot
+                  [C]{\thepage}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:237: Undefined control sequence.
+l.237   \fancyfoot[C]{\thepage
+                              }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:244: Undefined control sequence.
+l.244 \newcommand
+                 *{\ttlpg}{ %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:244: Undefined control sequence.
+l.244 \newcommand*{\ttlpg
+                         }{ %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:246: Undefined control sequence.
+l.246   \@
+          restonecolfalse %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:251: Undefined control sequence.
+l.251   \newpage
+                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:254: Undefined control sequence.
+l.254   \thispagestyle
+                      {empty}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:256: Undefined control sequence.
+l.256   \c@page \z
+                  @ %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:260: Undefined control sequence.
+l.260 \newcommand
+                 *{\frntpg}{ %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:260: Undefined control sequence.
+l.260 \newcommand*{\frntpg
+                          }{ %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:262: Undefined control sequence.
+l.262   \@
+          restonecolfalse %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:267: Undefined control sequence.
+l.267   \newpage
+                 %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:270: Undefined control sequence.
+l.270   \thispagestyle
+                      {plain}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:276: Undefined control sequence.
+l.276 \renewcommand
+                   {\@title}{Insert a Title!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:276: Undefined control sequence.
+l.276 \renewcommand{\@
+                      title}{Insert a Title!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:277: Undefined control sequence.
+l.277 \renewcommand
+                   {\@author}{Insert an Author!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:277: Undefined control sequence.
+l.277 \renewcommand{\@
+                      author}{Insert an Author!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:278: Undefined control sequence.
+l.278 \newcommand
+                 {\@degree}{Doctor of Philosophy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:278: Undefined control sequence.
+l.278 \newcommand{\@
+                    degree}{Doctor of Philosophy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:279: Undefined control sequence.
+l.279 \newcommand
+                 {\@deliverable}{Insert type of deliverable}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:279: Undefined control sequence.
+l.279 \newcommand{\@
+                    deliverable}{Insert type of deliverable}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:280: Undefined control sequence.
+l.280 \newcommand
+                 {\@department}{Insert a Department Name!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:280: Undefined control sequence.
+l.280 \newcommand{\@
+                    department}{Insert a Department Name!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:281: Undefined control sequence.
+l.281 \newcommand
+                 {\@committee}{Insert a Committee!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:281: Undefined control sequence.
+l.281 \newcommand{\@
+                    committee}{Insert a Committee!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:282: Undefined control sequence.
+l.282 \newcommand
+                 {\@chair}{Insert a Chair!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:282: Undefined control sequence.
+l.282 \newcommand{\@
+                    chair}{Insert a Chair!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:283: Undefined control sequence.
+l.283 \newcommand
+                 {\@cochair}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:283: Undefined control sequence.
+l.283 \newcommand{\@
+                    cochair}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:284: Undefined control sequence.
+l.284 \newcommand
+                 {\@uniquename}{Insert a Uniquename!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:284: Undefined control sequence.
+l.284 \newcommand{\@
+                    uniquename}{Insert a Uniquename!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:285: Undefined control sequence.
+l.285 \newcommand
+                 {\@orcidid}{Insert an ORCID ID NUMBER!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:285: Undefined control sequence.
+l.285 \newcommand{\@
+                    orcidid}{Insert an ORCID ID NUMBER!}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:288: Undefined control sequence.
+l.288 \renewcommand
+                   {\title}[1]{\renewcommand{\@title}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:288: Undefined control sequence.
+l.288 \renewcommand{\title
+                          }[1]{\renewcommand{\@title}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:288: Undefined control sequence.
+l.288 \renewcommand{\title}[1]{\renewcommand
+                                            {\@title}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:288: Undefined control sequence.
+l.288 \renewcommand{\title}[1]{\renewcommand{\@
+                                               title}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:288: You can't use `macro parameter character #' in horizontal mode.
+l.288 ...mmand{\title}[1]{\renewcommand{\@title}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:289: Undefined control sequence.
+l.289 \renewcommand
+                   {\author}[1]{\renewcommand{\@author}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:289: Undefined control sequence.
+l.289 \renewcommand{\author
+                           }[1]{\renewcommand{\@author}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:289: Undefined control sequence.
+l.289 \renewcommand{\author}[1]{\renewcommand
+                                             {\@author}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:289: Undefined control sequence.
+l.289 \renewcommand{\author}[1]{\renewcommand{\@
+                                                author}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:289: You can't use `macro parameter character #' in horizontal mode.
+l.289 ...and{\author}[1]{\renewcommand{\@author}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:290: Undefined control sequence.
+l.290 \newcommand
+                 {\uniquename}[1]{\renewcommand{\@uniquename}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:290: Undefined control sequence.
+l.290 \newcommand{\uniquename
+                             }[1]{\renewcommand{\@uniquename}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:290: Undefined control sequence.
+l.290 \newcommand{\uniquename}[1]{\renewcommand
+                                               {\@uniquename}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:290: Undefined control sequence.
+l.290 \newcommand{\uniquename}[1]{\renewcommand{\@
+                                                  uniquename}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:290: You can't use `macro parameter character #' in horizontal mode.
+l.290 ...quename}[1]{\renewcommand{\@uniquename}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:291: Undefined control sequence.
+l.291 \newcommand
+                 {\orcidid}[1]{\renewcommand{\@orcidid}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:291: Undefined control sequence.
+l.291 \newcommand{\orcidid
+                          }[1]{\renewcommand{\@orcidid}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:291: Undefined control sequence.
+l.291 \newcommand{\orcidid}[1]{\renewcommand
+                                            {\@orcidid}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:291: Undefined control sequence.
+l.291 \newcommand{\orcidid}[1]{\renewcommand{\@
+                                               orcidid}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:291: You can't use `macro parameter character #' in horizontal mode.
+l.291 ...d{\orcidid}[1]{\renewcommand{\@orcidid}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:292: Undefined control sequence.
+l.292 \newcommand
+                 {\degree}[1]{\renewcommand{\@degree}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:292: Undefined control sequence.
+l.292 \newcommand{\degree
+                         }[1]{\renewcommand{\@degree}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:292: Undefined control sequence.
+l.292 \newcommand{\degree}[1]{\renewcommand
+                                           {\@degree}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:292: Undefined control sequence.
+l.292 \newcommand{\degree}[1]{\renewcommand{\@
+                                              degree}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:292: You can't use `macro parameter character #' in horizontal mode.
+l.292 ...and{\degree}[1]{\renewcommand{\@degree}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:293: Undefined control sequence.
+l.293 \newcommand
+                 {\deliverable}[1]{\renewcommand{\@deliverable}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:293: Undefined control sequence.
+l.293 \newcommand{\deliverable
+                              }[1]{\renewcommand{\@deliverable}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:293: Undefined control sequence.
+l.293 \newcommand{\deliverable}[1]{\renewcommand
+                                                {\@deliverable}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:293: Undefined control sequence.
+l.293 ...command{\deliverable}[1]{\renewcommand{\@
+                                                  deliverable}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:293: You can't use `macro parameter character #' in horizontal mode.
+l.293 ...erable}[1]{\renewcommand{\@deliverable}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:294: Undefined control sequence.
+l.294 \newcommand
+                 {\department}[1]{\renewcommand{\@department}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:294: Undefined control sequence.
+l.294 \newcommand{\department
+                             }[1]{\renewcommand{\@department}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:294: Undefined control sequence.
+l.294 \newcommand{\department}[1]{\renewcommand
+                                               {\@department}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:294: Undefined control sequence.
+l.294 \newcommand{\department}[1]{\renewcommand{\@
+                                                  department}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:294: You can't use `macro parameter character #' in horizontal mode.
+l.294 ...artment}[1]{\renewcommand{\@department}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:295: Undefined control sequence.
+l.295 \newcommand
+                 {\committee}[1]{\renewcommand{\@committee}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:295: Undefined control sequence.
+l.295 \newcommand{\committee
+                            }[1]{\renewcommand{\@committee}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:295: Undefined control sequence.
+l.295 \newcommand{\committee}[1]{\renewcommand
+                                              {\@committee}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:295: Undefined control sequence.
+l.295 \newcommand{\committee}[1]{\renewcommand{\@
+                                                 committee}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:295: You can't use `macro parameter character #' in horizontal mode.
+l.295 ...ommittee}[1]{\renewcommand{\@committee}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:296: Undefined control sequence.
+l.296 \newcommand
+                 {\chair}[1]{\renewcommand{\@chair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:296: Undefined control sequence.
+l.296 \newcommand{\chair
+                        }[1]{\renewcommand{\@chair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:296: Undefined control sequence.
+l.296 \newcommand{\chair}[1]{\renewcommand
+                                          {\@chair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:296: Undefined control sequence.
+l.296 \newcommand{\chair}[1]{\renewcommand{\@
+                                             chair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:296: You can't use `macro parameter character #' in horizontal mode.
+l.296 ...mmand{\chair}[1]{\renewcommand{\@chair}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:297: Undefined control sequence.
+l.297 \newcommand
+                 {\cochair}[1]{\renewcommand{\@cochair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:297: Undefined control sequence.
+l.297 \newcommand{\cochair
+                          }[1]{\renewcommand{\@cochair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:297: Undefined control sequence.
+l.297 \newcommand{\cochair}[1]{\renewcommand
+                                            {\@cochair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:297: Undefined control sequence.
+l.297 \newcommand{\cochair}[1]{\renewcommand{\@
+                                               cochair}{#1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:297: You can't use `macro parameter character #' in horizontal mode.
+l.297 ...d{\cochair}[1]{\renewcommand{\@cochair}{#
+                                                  1}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./thesis-umich.cls:300: Undefined control sequence.
+l.300 \newcommand
+                 {\inserttitle}{\@title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:300: Undefined control sequence.
+l.300 \newcommand{\inserttitle
+                              }{\@title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:300: Undefined control sequence.
+l.300 \newcommand{\inserttitle}{\@
+                                  title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:301: Undefined control sequence.
+l.301 \newcommand
+                 {\insertauthor}{\@author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:301: Undefined control sequence.
+l.301 \newcommand{\insertauthor
+                               }{\@author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:301: Undefined control sequence.
+l.301 \newcommand{\insertauthor}{\@
+                                   author}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:302: Undefined control sequence.
+l.302 \newcommand
+                 {\insertuniquename}{\@uniquename}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:302: Undefined control sequence.
+l.302 \newcommand{\insertuniquename
+                                   }{\@uniquename}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:302: Undefined control sequence.
+l.302 \newcommand{\insertuniquename}{\@
+                                       uniquename}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:303: Undefined control sequence.
+l.303 \newcommand
+                 {\insertorcidid}{\@orcidid}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:303: Undefined control sequence.
+l.303 \newcommand{\insertorcidid
+                                }{\@orcidid}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:303: Undefined control sequence.
+l.303 \newcommand{\insertorcidid}{\@
+                                    orcidid}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:304: Undefined control sequence.
+l.304 \newcommand
+                 {\insertdegree}{\@degree}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:304: Undefined control sequence.
+l.304 \newcommand{\insertdegree
+                               }{\@degree}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:304: Undefined control sequence.
+l.304 \newcommand{\insertdegree}{\@
+                                   degree}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:305: Undefined control sequence.
+l.305 \newcommand
+                 {\insertdeliverable}{\@deliverable}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:305: Undefined control sequence.
+l.305 \newcommand{\insertdeliverable
+                                    }{\@deliverable}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:305: Undefined control sequence.
+l.305 \newcommand{\insertdeliverable}{\@
+                                        deliverable}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:306: Undefined control sequence.
+l.306 \newcommand
+                 {\insertdepartment}{\@department}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:306: Undefined control sequence.
+l.306 \newcommand{\insertdepartment
+                                   }{\@department}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:306: Undefined control sequence.
+l.306 \newcommand{\insertdepartment}{\@
+                                       department}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:307: Undefined control sequence.
+l.307 \newcommand
+                 {\insertcommittee}{\@committee}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:307: Undefined control sequence.
+l.307 \newcommand{\insertcommittee
+                                  }{\@committee}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:307: Undefined control sequence.
+l.307 \newcommand{\insertcommittee}{\@
+                                      committee}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:308: Undefined control sequence.
+l.308 \newcommand
+                 {\insertchair}{\@chair}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:308: Undefined control sequence.
+l.308 \newcommand{\insertchair
+                              }{\@chair}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:308: Undefined control sequence.
+l.308 \newcommand{\insertchair}{\@
+                                  chair}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:309: Undefined control sequence.
+l.309 \newcommand
+                 {\insertcochair}{\@cochair}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:309: Undefined control sequence.
+l.309 \newcommand{\insertcochair
+                                }{\@cochair}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:309: Undefined control sequence.
+l.309 \newcommand{\insertcochair}{\@
+                                    cochair}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:310: Undefined control sequence.
+l.310 \newcommand
+                 {\insertyear}{\number\year}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:310: Undefined control sequence.
+l.310 \newcommand{\insertyear
+                             }{\number\year}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:314: Undefined control sequence.
+l.314 \renewcommand
+                   *{\titlepage}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:314: Undefined control sequence.
+l.314 \renewcommand*{\titlepage
+                               }{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:316: Undefined control sequence.
+l.316   \ttlpg
+               %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:318: Undefined control sequence.
+l.318   \begin
+              {singlespace} %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:320: Undefined control sequence.
+l.320     \hbox{\vspace
+                       {1in}} %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:322: Undefined control sequence.
+l.322     \begin
+                {center} %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:324: Undefined control sequence.
+l.324       \begin
+                  {onehalfspacing}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:326: Undefined control sequence.
+l.326         {\Large
+                     \bfseries\inserttitle} %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:326: Undefined control sequence.
+l.326         {\Large\bfseries
+                              \inserttitle} %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./thesis-umich.cls:326: Undefined control sequence.
+l.326         {\Large\bfseries\inserttitle
+                                          } %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 314 ({)
+### bottom level</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on /Users/suyashtandon/Documents/UM/ResearchFiles/Publications/Thesis/2017_umich_dissertation_latex_template-master/.texpadtmp/thesis-umich.pdf (1 page, 23727 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

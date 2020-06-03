@@ -1,0 +1,163 @@
+\RequireVersions{
+  *{application}{TeX}     {1990/03/25 v3.x}
+  *{format} {LaTeX2e}     {2017-04-15 v2.e}
+  *{class}  {./thesis-umich}{0000/00/00 v0.0}
+  *{class}  {report}      {2014/09/29 v1.4h}
+  *{file}   {size12.clo}  {2014/09/29 v1.4h}
+  *{package}{geometry}    {2010/09/12 v5.6}
+  *{package}{keyval}      {2014/10/28 v1.15}
+  *{package}{ifpdf}       {2017/03/15 v3.2}
+  *{package}{ifvtex}      {2016/05/16 v1.6}
+  *{package}{ifxetex}     {2010/09/12 v0.6}
+  *{package}{amsmath}     {2016/11/05 v2.16a}
+  *{package}{amstext}     {2000/06/29 v2.01}
+  *{package}{amsgen}      {1999/11/30 v2.0}
+  *{package}{amsbsy}      {1999/11/29 v1.2d}
+  *{package}{amsopn}      {2016/03/08 v2.02}
+  *{package}{amsfonts}    {2013/01/14 v3.01}
+  *{package}{amssymb}     {2013/01/14 v3.01}
+  *{package}{graphicx}    {2014/10/28 v1.0g}
+  *{package}{graphics}    {2017/04/14 v1.1b}
+  *{package}{trig}        {2016/01/03 v1.10}
+  *{file}   {graphics.cfg}{2016/06/04 v1.11}
+  *{file}   {pdftex.def}  {2017/01/12 v0.06k}
+  *{package}{infwarerr}   {2016/05/16 v1.4}
+  *{package}{ltxcmds}     {2016/05/16 v1.23}
+  *{package}{subcaption}  {2016/05/22 v1.1-161}
+  *{package}{caption}     {2016/02/21 v3.3-144}
+  *{package}{caption3}    {2016/05/22 v1.7-166}
+  *{package}{times}       {2005/04/12 v9.2a}
+  *{package}{verbatim}    {2014/10/28 v1.5q}
+  *{package}{upquote}     {2012/04/19 v1.3}
+  *{package}{textcomp}    {2017/04/05 v2.0i}
+  *{file}   {ts1enc.def}  {2001/06/05 v3.0e}
+  *{package}{setspace}    {2011/12/19 v6.7a}
+  *{package}{ifthen}      {2014/09/29 v1.1c}
+  *{package}{soul}        {2003/11/17 v2.4}
+  *{package}{float}       {2001/11/08 v1.3d}
+  *{package}{acronym}     {2015/03/21 v1.41}
+  *{package}{suffix}      {2006/07/15 v1.5a}
+  *{package}{xstring}     {2013/10/13 v1.7c}
+  *{package}{fancyhdr}    {2016/09/06 v3.8}
+  *{package}{changepage}  {2009/10/20 v1.0c}
+  *{package}{tocloft}     {2013/05/02 v2.3f}
+  *{package}{titlesec}    {2016/03/21 v2.10.2}
+  *{package}{color}       {1999/02/16 v0.0}
+  *{file}   {color.cfg}   {2016/01/02 v1.6}
+  *{file}   {dvipsnam.def}{2016/06/17 v3.0m}
+  *{package}{hyperref}    {2017/03/14 v6.85a}
+  *{package}{hobsub-hyperref}{2016/05/16 v1.14}
+  *{package}{hobsub-generic}{2016/05/16 v1.14}
+  *{package}{hobsub}      {2016/05/16 v1.14}
+  *{package}{ifluatex}    {2016/05/16 v1.4}
+  *{package}{intcalc}     {2016/05/16 v1.2}
+  *{package}{etexcmds}    {2016/05/16 v1.6}
+  *{package}{kvsetkeys}   {2016/05/16 v1.17}
+  *{package}{kvdefinekeys}{2016/05/16 v1.4}
+  *{package}{pdftexcmds}  {2017/03/19 v0.25}
+  *{package}{pdfescape}   {2016/05/16 v1.14}
+  *{package}{bigintcalc}  {2016/05/16 v1.4}
+  *{package}{bitset}      {2016/05/16 v1.2}
+  *{package}{uniquecounter}{2016/05/16 v1.3}
+  *{package}{letltxmacro} {2016/05/16 v1.5}
+  *{package}{hopatch}     {2016/05/16 v1.3}
+  *{package}{xcolor-patch}{2016/05/16 v0.0}
+  *{package}{atveryend}   {2016/05/16 v1.9}
+  *{package}{atbegshi}    {2016/06/09 v1.18}
+  *{package}{refcount}    {2016/05/16 v3.5}
+  *{package}{hycolor}     {2016/05/16 v1.8}
+  *{package}{auxhook}     {2016/05/16 v1.4}
+  *{package}{kvoptions}   {2016/05/16 v3.12}
+  *{file}   {pd1enc.def}  {2017/03/14 v6.85a}
+  *{file}   {hyperref.cfg}{2002/06/06 v1.2}
+  *{package}{url}         {2013/09/16 v3.4}
+  *{file}   {hpdftex.def} {2017/03/14 v6.85a}
+  *{package}{rerunfilecheck}{2016/05/16 v1.8}
+  *{package}{natbib}      {2010/09/13 v8.31b}
+  *{package}{pdflscape}   {2016/05/14 v0.11}
+  *{package}{lscape}      {2000/10/22 v3.01}
+  *{package}{mathrsfs}    {1996/01/01 v1.0}
+  *{package}{rotating}    {2016/08/11 v2.16d}
+  *{package}{xcolor}      {2016/05/11 v2.12}
+  *{file}   {color.cfg}   {2016/01/02 v1.6}
+  *{file}   {dvipsnam.def}{2016/06/17 v3.0m}
+  *{package}{tikz}        {2015/08/07 v3.0.1a}
+  *{package}{pgf}         {2015/08/07 v3.0.1a}
+  *{package}{pgfrcs}      {2015/08/07 v3.0.1a}
+  *{package}{everyshi}    {2001/05/15 v3.00}
+  *{file}   {pgfrcs.code.tex}{0000/00/00 v0.0}
+  *{package}{pgfcore}     {2010/04/11 v3.0.1a}
+  *{package}{pgfsys}      {2014/07/09 v3.0.1a}
+  *{file}   {pgfsys.code.tex}{0000/00/00 v0.0}
+  *{file}   {pgfsyssoftpath.code.tex}{2013/09/09 v1.9)}
+  *{file}   {pgfsysprotocol.code.tex}{2006/10/16 v1.4)}
+  *{file}   {pgfcore.code.tex}{0000/00/00 v0.0}
+  *{package}{pgfcomp-version-0-65}{2007/07/03 v3.0.1a}
+  *{package}{pgfcomp-version-1-18}{2007/07/23 v3.0.1a}
+  *{package}{pgffor}      {2013/12/13 v3.0.1a}
+  *{package}{pgfkeys}     {0000/00/00 v0.0}
+  *{file}   {pgfkeys.code.tex}{0000/00/00 v0.0}
+  *{package}{pgfmath}     {0000/00/00 v0.0}
+  *{file}   {pgfmath.code.tex}{0000/00/00 v0.0}
+  *{file}   {pgffor.code.tex}{0000/00/00 v0.0}
+  *{file}   {tikz.code.tex}{0000/00/00 v0.0}
+  *{package}{pgfgantt}    {2013/06/01 v4.0}
+  *{package}{pgfcalendar} {0000/00/00 v0.0}
+  *{file}   {pgfcalendar.code.tex}{2007/07/23 v3.0.1a}
+  *{package}{booktabs}    {2016/04/27 v1.618033}
+  *{package}{abstract}    {2009/06/08 v1.2a}
+  *{package}{tabularx}    {2016/02/03 v2.11}
+  *{package}{array}       {2016/10/06 v2.4d}
+  *{package}{embedfile}   {2016/05/15 v2.7}
+  *{package}{import}      {2009/03/23 v5.1}
+  *{package}{ulem}        {2012/05/18 v0.0}
+  *{package}{appendix}    {2009/09/02 v1.2b}
+  *{package}{adjustbox}   {2012/05/21 v1.0}
+  *{package}{xkeyval}     {2014/12/03 v2.7a}
+  *{file}   {xkeyval.tex} {2014/12/03 v2.7a}
+  *{package}{adjcalc}     {2012/05/16 v1.1}
+  *{package}{trimclip}    {2012/05/16 v1.0}
+  *{package}{collectbox}  {2012/05/17 v0.4b}
+  *{file}   {tc-pdftex.def}{2012/05/13 v1.0}
+  *{package}{ifoddpage}   {2016/04/23 v1.1}
+  *{package}{varwidth}    {2009/03/30 v0.92;}
+  *{package}{hhline}      {2014/10/28 v2.03}
+  *{package}{ragged2e}    {2009/05/21 v2.1}
+  *{package}{everysel}    {2011/10/28 v1.2}
+  *{package}{multirow}    {2016/11/25 v2.2}
+  *{package}{totcount}    {2011/01/25 v1.2}
+  *{package}{transparent} {2016/05/16 v1.1}
+  *{package}{txfonts}     {2008/01/22 v3.2.1}
+  *{package}{snapshot}    {2002/03/05 v1.14}
+  *{file}   {./diff_preamble.tex}{0000/00/00 v0.0}
+  *{file}   {omltxmi.fd}  {2000/12/15 v3.1}
+  *{file}   {omstxsy.fd}  {2000/12/15 v3.1}
+  *{file}   {omxtxex.fd}  {2000/12/15 v3.1}
+  *{file}   {utxexa.fd}   {2000/12/15 v3.1}
+  *{file}   {ts1cmr.fd}   {2014/09/29 v2.5h}
+  *{file}   {ot1txr.fd}   {2000/12/15 v3.1}
+  *{file}   {supp-pdf.mkii}{0000/00/00 v0.0}
+  *{package}{epstopdf-base}{2016/05/15 v2.6}
+  *{package}{grfext}      {2016/05/16 v1.2}
+  *{file}   {epstopdf-sys.cfg}{2010/07/13 v1.3}
+  *{package}{nameref}     {2016/05/21 v2.44}
+  *{package}{gettitlestring}{2016/05/16 v1.5}
+  *{file}   {main.out}    {0000/00/00 v0.0}
+  *{file}   {main.out}    {0000/00/00 v0.0}
+  *{file}   {utxsya.fd}   {2000/12/15 v3.1}
+  *{file}   {utxsyb.fd}   {2000/12/15 v3.1}
+  *{file}   {ursfs.fd}    {1998/03/24 v0.0}
+  *{file}   {utxmia.fd}   {2000/12/15 v3.1}
+  *{file}   {utxsyc.fd}   {2000/12/15 v3.1}
+  *{file}   {./placeholder.pdf}{0000/00/00 v0.0}
+  *{file}   {ts1txr.fd}   {2000/12/15 v3.1}
+  *{file}   {./dedication.tex}{0000/00/00 v0.0}
+  *{file}   {./acknowledgments.tex}{0000/00/00 v0.0}
+  *{file}   {./preface.tex}{0000/00/00 v0.0}
+  *{file}   {./acronyms.tex}{0000/00/00 v0.0}
+  *{file}   {./abstract550.tex}{0000/00/00 v0.0}
+  *{file}   {./chapter_introduction.tex}{0000/00/00 v0.0}
+  *{file}   {brouillette_fig3_mod.pdf_tex}{0000/00/00 v0.0}
+  *{file}   {brouillette_fig3_mod.pdf}{Graphic v0.0}
+  *{file}   {main.bbl}    {0000/00/00 v0.0}
+}

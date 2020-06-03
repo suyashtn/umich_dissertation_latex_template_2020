@@ -1,0 +1,282 @@
+% Author: Suyash Tandon
+% Description: Dissertation template to be used with modified thesis-umich class
+%
+%
+% Use the University of Michigan thesis class.
+\documentclass[submit]{./thesis-umich}
+
+
+% Title of the thesis
+\title{THESIS TITLE}
+
+
+
+% Author name
+\author{YOUR NAME HERE}
+\uniquename{YOUR UNIQUE NAME HERE}
+\orcidid{YOUR ORCID ID \# Here} 
+
+% Department
+\department{(Mechanical Engineering)}
+
+% Year of completion
+\year=\the\year
+
+% Frontispiece (optional)
+\frontispiece{\includegraphics[width=4in]{./placeholder}}
+
+% Default style for front pages
+\frontpagestyle{1}
+
+%% Dedication 
+\dedication{\include{./dedication}}
+
+%% Acknowledgments
+\acknowledgments{\include{./acknowledgments}}%
+
+% This command sets the width of the acknowledgments area as a fraction
+% of the total width of the text area.
+\acknowledgmentswidth{0.75}%
+
+% Preface (optional)
+\preface{\include{./preface}}%
+
+% Committee (chairs first, must be in alphabetical order)
+\committee{%
+\hspace*{12pt} Professor Person, Co-Chair\\
+\hspace*{12pt} Associate Professor Other person, Co-Chair\\
+\hspace*{12pt} Professor third person\\
+\hspace*{12pt} Professor fourth person
+}
+
+%% Chair must be entered separately for formatting reasons.
+\chair{Person}
+\cochair{Other Person \& Person}% Must have both, must be in alphabetical order
+
+%% What deliverable requirement does this fill
+\deliverable{Dissertation}
+
+% Commands to hide or show lists of figures, tables, etc.
+% \hidelistoftables
+% \hidelistofprograms
+% \hidelistofappendices
+% \hidelistoffigures
+% \hidelistofabbreviations
+% \hidelistofacronyms
+% \hidededication
+
+\showlistoftables
+%\showlistofprograms
+%\showlistofappendices
+\showlistofabbreviations
+\showlistoffigures
+\showacknowledgments
+
+
+%% Definition of any abbreviations used.
+\abbreviations{
+\input{./acronyms}
+}
+
+%% Some abstract text (must be 550 words or less to submit thesis to deep blue)
+\abstract{\input{./abstract550}}
+\showabstractpagenumber
+
+
+% Your packages here
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{pdflscape}
+\usepackage{mathrsfs}
+\usepackage{rotating}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{tikz}
+\usepackage{pgfgantt}
+\usepackage{booktabs}
+\usepackage{abstract} \usepackage{verbatim} \usepackage{tabularx}
+\usepackage{caption} \usepackage{subcaption} \usepackage{embedfile}
+\usepackage{import} \usepackage[normalem]{ulem}
+\usepackage[toc,page]{appendix}
+\usepackage{titlesec}
+\usepackage{adjustbox} \usepackage{hhline} \usepackage{ragged2e} \usepackage{setspace} \usepackage{multirow}%Needed to make tables converted from word working 
+\usepackage{totcount}
+\usepackage{transparent}
+\usepackage{txfonts}
+
+
+% Your commands here
+\newcommand{\ganttgroupc}[5][none]{\ganttgroup[group/.append style={draw=black, fill=#1}, group incomplete/.append style={draw=black,fill=#1!50}, progress=#2]{#3}{#4}{#5}}
+\newcommand{\ganttbarc}[5][none]{\ganttbar[bar/.append style={draw=black, fill=#1}, bar incomplete/.append style={draw=black,fill=#1!50}, progress=#2]{#3}{#4}{#5}}
+\newcommand{\bs}[1]{\boldsymbol{#1}}
+\newcommand{\mcbs}[1]{\boldsymbol{\mathcal{#1}}}
+\newcommand{\mbbs}[1]{\boldsymbol{\mathbf{#1}}}
+\newcommand{\del}[0]{\nabla}
+\newcommand{\orderof}[1]{\ensuremath{\mathcal{O}\left(#1\right)}}
+\newcommand{\abs}[1]{\ensuremath{\left|#1\right|}}
+\newcommand{\norm}[1]{\ensuremath{\left\Vert#1\right\Vert}}
+\newcommand{\plus}{\raisebox{.2\height}{\scalebox{.8}{+}}}
+\newcommand*\diff{\mathop{}\!\mathrm{d}}
+\newcommand*\Diff[1]{\mathop{}\!\mathrm{d^#1}}
+
+% Used to count references (optional)
+\newtotcounter{citnum} %From the totcount package documentation
+\def\oldbibitem{} \let\oldbibitem=\bibitem
+\def\bibitem{\stepcounter{citnum}\oldbibitem}
+
+% Used to get section names
+\let\Sectionmark\sectionmark
+\def\sectionmark#1{\def\Sectionname{#1}\Sectionmark{#1}}
+\let\Subsectionmark\subsectionmark
+\def\subsectionmark#1{\def\Subsectionname{#1}\Subsectionmark{#1}}
+
+%% Declare math operators
+\DeclareMathOperator{\sech}{sech}
+\DeclareMathOperator{\csch}{csch}
+\DeclareMathOperator{\arcsec}{arcsec}
+\DeclareMathOperator{\arccot}{arcCot}
+\DeclareMathOperator{\arccsc}{arcCsc}
+\DeclareMathOperator{\arccosh}{arcCosh}
+\DeclareMathOperator{\arcsinh}{arcsinh}
+\DeclareMathOperator{\arctanh}{arctanh}
+\DeclareMathOperator{\arcsech}{arcsech}
+\DeclareMathOperator{\arccsch}{arcCsch}
+\DeclareMathOperator{\arccoth}{arcCoth}  
+
+% New table columns (optional)
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% Preferentially use .pdf files when other formats are available (default preference w/o this line is .png, then pdf, etc...
+\DeclareGraphicsExtensions{.pdf,.PDF,.png,.PNG,.jpg,.mps,.jpeg,.jbig2,.jb2,.JPG,.JPEG,.JBIG2,.JB2}
+
+% Create a snapshot of dependencies and place in .dep file
+\RequirePackage{snapshot}
+
+% Embed files
+\embedfile{main.tex} % I find it good to add these things for backup
+
+
+% Setup latexdiff (optional, but useful if you want to do a track changes type thing)
+\input{./diff_preamble.tex}
+
+% Lets the table of contents display \subsubsections, which isn't required, but I preferred it
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
+
+% Fix title spacing, to match Rackham style
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+
+% Fix subcaptions to look like (a), which is consistent w/ most journals in my field (fluid mechanics)
+\captionsetup{subrefformat=parens}
+
+
+% Black citations for cheap printing
+%\hypersetup{citecolor=black} %Uncomment to make citations black for cheap printing
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BEGIN THESIS DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+%% DOCUMENT AREA
+
+\begin{document}
+\acresetall % Resets acronyms so that they are redefined (use for each chapter and after abstract)
+
+% Necessary if your thesis has multiple parts
+\renewcommand\thepart{Part~\Roman{part}:} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% WORKED FOR TOC, but broke things later
+\renewcommand\cftpartpresnum{Part~}
+
+\acresetall
+\chapter{Introduction}
+\label{ch:intro} 
+Some intro text.
+
+% % US Bioeffects
+\part{First part of thesis}
+\label{part:my_part_one_label} 
+
+
+\acresetall
+\chapter{Introduction}
+\label{ch:p1_Introduction} 
+\input{./chapter_introduction}
+
+\acresetall
+\chapter{Next chapter title}
+\label{ch:p1_next_chapter_label}
+Content here
+
+
+\acresetall
+\part{Second part title}
+\label{part:second_part_label} 
+%ONLY IF YOU HAVE TWO PARTS
+
+\acresetall
+\chapter{Yet another chapter title}
+\label{ch:astats}
+Content here
+
+
+\appendix
+\begin{appendices}
+  %NOTE: Labels outside of \chapter{} in the appendix to avoid compile error (not sure why)
+  \chapter{Behold -- my first appendix}\label{ch:appendix_label}
+  Content here
+  %
+  \chapter{Behold -- my second appendix}\label{ch:another_appendix_label}
+  Content here
+\end{appendices}
+
+
+
+%% Using AIAA bibliography.
+\bibliographystyle{./myauthordate2_custom}
+
+% Select your .bib file, here are a few generated from Mendeley or generated using open-source tools on Linux c. 10/2017
+\bibliography{library_custom} % Modified from Mendeley
+%
+%\bibliography{library_cleaned} % To generate use "bibclean library.bib > library_cleaned.bib"
+%\bibliography{library_tooled} % To generate use "bibtool -s –'sort.format'="%N(author)" library.bib library_tooled.bib"
+
+
+
+% Snarky comment about number of bibliography references - Caught and denied by Rackham. 
+% \begin{center}
+%   For those curious, this dissertation contains \total{citnum} unique references.
+% \end{center}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

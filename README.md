@@ -21,4 +21,8 @@ To compile, run
 in a terminal. This effectively runs `pdflatex` and `bibtex` enough times and in the right order to handle all labels and references.  This script also filters out a lot of
 unuseful compile output information, making it easier to find errors.
 
+### Known issues
+The acknowledgements page may have weird formatting. Try adjusting the width settings on line # 715 of `thesis-umich.cls`.  
+
+---
 ### Good luck!

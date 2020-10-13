@@ -676,7 +676,7 @@ headheight=0.5\baselineskip]{geometry}
 % Command that sets the acknowledgments style
 \newcommand{\@acknowledgmentsstyle}{\@frontpagestyle}
 % Command that sets the width of the acknowledgments text area
-\newcommand{\@acknowledgments@width}{0.66}
+\newcommand{\@acknowledgments@width}{0.75}
 
 % Command to change it from the default
 \newcommand{\acknowledgments}[2][]{ %
@@ -712,7 +712,7 @@ headheight=0.5\baselineskip]{geometry}
   \normalsize %
   % 
   \begin{center}
-    \begin{adjustwidth}{0.12\textwidth}{0.12\textwidth}
+    \begin{adjustwidth}{0.075\textwidth}{0.075\textwidth}
       % Double-spaced lines required by Rackham
       \doublespacing %
       % Insert the text.
